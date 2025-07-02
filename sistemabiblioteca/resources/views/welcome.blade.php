@@ -15,7 +15,7 @@
     <div >
         <header>
             <div class="logo">
-                <img class="w-48" src="{{asset('imgs/navbar/LYBRIS.svg')}}" alt="Lybris Logo">
+                <img class="w-48" src="{{asset('imgs/navbar/')}}" alt="Lybris Logo">
             </div>
             <nav>
                 <a type="submit" class="nav-btn loginst" href="/login">
@@ -29,7 +29,7 @@
         <main class="text-center">
             <section class="intro">
                 <h2>Biblioteca Virtual</h2>
-                <h1 class="title"><span >Aumente seu conhecimento com a <span class="Lybris">Lybris</span></span></h1>
+                <h1 class="title"><span >Aumente seu conhecimento com a <span class="Lybris">Libby</span></span></h1>
                 <p>Conectando leitores ao conhecimento. Explore, empreste e mergulhe em um mundo de livros digitais com facilidade e comodidade.</p>
                 <a type="submit" class="btn" href="/register">
                     Faça parte
@@ -43,7 +43,7 @@
                         </svg>
                         <h3>Acessibilidade Aprimorada</h3>
                     </div>
-                    <p>Lybris amplia o acesso à leitura ao permitir que usuários naveguem e emprestem livros de bibliotecas físicas de forma virtual, eliminando barreiras geográficas e temporais.</p>
+                    <p>Libby amplia o acesso à leitura ao permitir que usuários naveguem e emprestem livros de bibliotecas físicas de forma virtual, eliminando barreiras geográficas e temporais.</p>
                 </div>
                 <div class="feature">
                     <div class="feature-header">
@@ -61,7 +61,7 @@
                         </svg>
                         <h3>Gestão Eficiente de Empréstimos</h3>
                     </div>
-                    <p>Com a Lybris, os usuários podem gerenciar empréstimos de forma simples, acompanhando datas de devolução e renovação dos livros de maneira eficiente através de uma plataforma online intuitiva.</p>
+                    <p>Com a Libby, os usuários podem gerenciar empréstimos de forma simples, acompanhando datas de devolução e renovação dos livros de maneira eficiente através de uma plataforma online intuitiva.</p>
                 </div>
             </section>
         </main>

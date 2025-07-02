@@ -1,5 +1,5 @@
 @extends('layouts.navbar')
-@section('title', 'Lybris')
+@section('title', 'Libby')
 
     <link
     rel="stylesheet"

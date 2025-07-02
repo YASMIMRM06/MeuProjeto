@@ -12,7 +12,7 @@
 <body>
   <div class="login-container" >
     <div class="img-container">
-      <img src="{{asset('imgs/LYBRIS.svg')}}" alt="Logo LY">
+      <img src="{{asset('imgs/')}}" alt="Logo LY">
     </div>
     <form action="{{route('login')}}" method="POST">
       @csrf

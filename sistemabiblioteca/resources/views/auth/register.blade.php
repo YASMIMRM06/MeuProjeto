@@ -12,7 +12,7 @@
 </head>
 <body>
   <div class="cadastro-container">
-    <img class="logo-LY" src="imgs/LYBRIS.svg" alt="Logo LY">
+    <img class="logo-LY" src="imgs/" alt="Logo LY">
     <form method="POST" action="{{ route('register') }}" class="form-container">
         @csrf
       
