@@ -137,7 +137,8 @@ php artisan schedule:work
 - ✅ Funcionalidade adicional (Google Books API)
 - ✅ Modelagem completa e documentada
 - ✅ Repositório Git com histórico coerente
-
+- ## Diagrama de Correspondencia
+![alt text](image-17.png)
 ## ✔️ Telas
 
 - Tela Inicial
@@ -157,12 +158,12 @@ php artisan schedule:work
 ![alt text](image-8.png)
 - Validar reserva
 ![alt text](image-9.png)
-- Na tela em comum a tela do admin apresenta as seguintes funcionalidas ao clicar no livro
+- Na tela em comum, a tela do admin apresenta as seguintes funcionalidas ao clicar no livro
 ![alt text](image-10.png)
 assim como usuarios comuns o admin tambem pode resservar um livro, porem apenas ele pode excluir ou editar um livro
 # Usuario
-- Na tela em comum a tela do usuario apresenta as seguintes funcionalidas ao clicar no livro
--- se clicar ja tendo um livro reservado
+- Na tela em comum, a tela do usuario apresenta as seguintes funcionalidas ao clicar no livro
+-- se clicar ja possuindo um livro reservado
 ![alt text](image-11.png)
 ![alt text](image-12.png)
 -- Reservar um livro
