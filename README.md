@@ -138,3 +138,35 @@ php artisan schedule:work
 - ✅ Modelagem completa e documentada
 - ✅ Repositório Git com histórico coerente
 
+## ✔️ Telas
+
+- Tela Inicial
+![alt text](image-3.png)
+- Tela de Cadastro
+![alt text](image-4.png)
+- Tela de Login
+![alt text](image-5.png)
+- Tela em comun para usuario e admin
+![alt text](image-6.png)
+-- pode pesquisar pelo nome do livro
+![alt text](image-16.png)
+# Admin
+- adicionar livro
+![alt text](image-7.png)
+- Painel de Emprestimo
+![alt text](image-8.png)
+- Validar reserva
+![alt text](image-9.png)
+- Na tela em comum a tela do admin apresenta as seguintes funcionalidas ao clicar no livro
+![alt text](image-10.png)
+assim como usuarios comuns o admin tambem pode resservar um livro, porem apenas ele pode excluir ou editar um livro
+# Usuario
+- Na tela em comum a tela do usuario apresenta as seguintes funcionalidas ao clicar no livro
+-- se clicar ja tendo um livro reservado
+![alt text](image-11.png)
+![alt text](image-12.png)
+-- Reservar um livro
+![alt text](image-14.png)
+![alt text](image-15.png)
+--tela do livro caso esteja indisponivel
+![alt text](image-13.png)
