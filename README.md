@@ -6,6 +6,7 @@ TADS 24 - Instituto Federal do Paraná
 Disciplina: Desenvolvimento Web II  
 Professor: Luiz Efigênio  
 **Data de entrega**: 09/07/2025
+**Link do Drive**:[https://drive.google.com/drive/folders/1fmeoKEW5wquIXUei35HRUBayX91dYiAM?usp=drive_link]
 
 ## 📚 Visão Geral do Projeto
 Sistema de gerenciamento de biblioteca desenvolvido em Laravel com:
