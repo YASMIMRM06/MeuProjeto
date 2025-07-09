@@ -155,6 +155,7 @@ php artisan schedule:work
 # Admin
 - adicionar livro
 ![alt text](image-7.png)
+![alt text](image-18.png)
 - Painel de Emprestimo
 ![alt text](image-8.png)
 - Validar reserva
